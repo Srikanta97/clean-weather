@@ -23,14 +23,14 @@ Stay informed with real-time updates on current weather conditions. Clean Weathe
 
 Follow these steps to get started with Clean Weather:
 
-(to be updated)
+_(to be updated)_
 
 ## Contributing
 
-(to be updated)
+_(to be updated)_
 
 ## Feedback
 
-Have feedback or suggestions? Feel free to reach out to me at [Email](srikanta.aug97@gmail.com).
+Have feedback or suggestions? Feel free to reach out to me - [Email](mailto:srikanta.aug97@gmail.com).
 
 Let's keep it clean and simple – Clean Weather, where accurate information meets a clutter-free experience!
